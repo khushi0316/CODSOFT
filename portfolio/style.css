@@ -191,7 +191,7 @@ section .title::after {
 /* home section styling */
 .home {
     display: flex;
-    background: url("images/CLOURL.png") no-repeat center;
+    background: url("images/khushibanner.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -800,6 +800,6 @@ footer span a:hover {
         height: 38px;
         width: 35px;
         font-size: 23px;
-        line-height: 38px;
-    }
+        line-height: 38px;
+    }
 }
